@@ -70,8 +70,14 @@ Update-Database
 
 ## 👤 Admin Access
 
-- **Username:** `admin@example.com`
+- **Username:** `admin
 - **Password:** `Admin@123`
+
+
+## 👤 User Access
+
+- **Username:** `sally`
+- **Password:** kukuuuu
 
 *(You can change this in the database if needed)*
 
